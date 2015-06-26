@@ -10,5 +10,8 @@ module.exports = {
   },
   movie: function() {
     console.log("* Back to the Future (I)");
+  },
+  magazine: function () {
+    console.log("* Rolling Stone");
   }
 }
