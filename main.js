@@ -5,3 +5,4 @@ mattsFavs.beer();
 mattsFavs.band();
 mattsFavs.show();
 mattsFavs.movie();
+mattsFavs.magazine();
