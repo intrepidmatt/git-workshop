@@ -6,3 +6,4 @@ mattsFavs.band();
 mattsFavs.show();
 mattsFavs.movie();
 mattsFavs.magazine();
+mattsFavs.color();

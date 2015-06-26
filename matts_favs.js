@@ -13,5 +13,8 @@ module.exports = {
   },
   magazine: function () {
     console.log("* Rolling Stone");
+  },
+  color: function() {
+    console.log("* Blue");
   }
-}
+ }
