@@ -6,7 +6,7 @@ module.exports = {
     console.log("* Madeon");
   },
   show: function() {
-    console.log("* Game of Thrones");
+    console.log("* Keeping up with the Kardashians");
   },
   movie: function() {
     console.log("* Back to the Future (I)");
