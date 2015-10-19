@@ -1,6 +1,6 @@
 module.exports = {
   beer: function() {
-    console.log("* Budweiser");
+    console.log("* Bud Light");
   },
   band: function() {
     console.log("* Madeon");
