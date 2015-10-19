@@ -3,7 +3,7 @@ module.exports = {
     console.log("* Bud Light");
   },
   band: function() {
-    console.log("* Madeon");
+    console.log("* Phish");
   },
   show: function() {
     console.log("* Game of Thrones");
