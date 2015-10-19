@@ -12,7 +12,7 @@ module.exports = {
     console.log("* V for Vendetta");
   },
   magazine: function () {
-    console.log("* Rolling Stone");
+    console.log("* Time Magazine");
   },
   color: function() {
     console.log("* Blue");
