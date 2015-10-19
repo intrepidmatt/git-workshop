@@ -9,7 +9,7 @@ module.exports = {
     console.log("* Game of Thrones");
   },
   movie: function() {
-    console.log("* Back to the Future (I)");
+    console.log("* V for Vendetta");
   },
   magazine: function () {
     console.log("* Rolling Stone");
